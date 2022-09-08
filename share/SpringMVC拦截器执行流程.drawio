@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-08T09:06:12.686Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="c9wmtabjhspJeqkUtxEY" version="20.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-08T09:31:24.567Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="8XlTs2yfQ2qf8vH-BV6C" version="20.2.6" type="github">
   <diagram id="H6XHgHtE3NVDQajGzPOC" name="第 1 页">
     <mxGraphModel dx="786" dy="405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -33,6 +33,45 @@
         </mxCell>
         <mxCell id="znUm3iQa9jHhePQVOA-r-8" value="MyHandlerInterceptor.afterCompletion()&lt;font face=&quot;Menlo-Regular, monospace&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="300" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="znUm3iQa9jHhePQVOA-r-15" value="return true" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="334" y="490" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="znUm3iQa9jHhePQVOA-r-19" value="DispatcherServlet&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;font face=&quot;Menlo-Regular, monospace&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="490" width="130" height="175" as="geometry" />
+        </mxCell>
+        <mxCell id="znUm3iQa9jHhePQVOA-r-21" value="render()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="87.5" y="570" width="95" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="znUm3iQa9jHhePQVOA-r-22" value="Intercepter1&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;font face=&quot;Menlo-Regular, monospace&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="450" width="150" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="znUm3iQa9jHhePQVOA-r-23" value="preHandle()&lt;font face=&quot;Menlo-Regular, monospace&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="272" y="500" width="106" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="znUm3iQa9jHhePQVOA-r-24" value="postHandle()&lt;font face=&quot;Menlo-Regular, monospace&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="272" y="570" width="106" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="znUm3iQa9jHhePQVOA-r-25" value="afterCompletion()&lt;font face=&quot;Menlo-Regular, monospace&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="272" y="635" width="106" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="znUm3iQa9jHhePQVOA-r-27" value="return true" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="536.5" y="490" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="znUm3iQa9jHhePQVOA-r-28" value="Intercepter2&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;font face=&quot;Menlo-Regular, monospace&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="452.5" y="450" width="150" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="znUm3iQa9jHhePQVOA-r-29" value="preHandle()&lt;font face=&quot;Menlo-Regular, monospace&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="474.5" y="500" width="106" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="znUm3iQa9jHhePQVOA-r-30" value="postHandle()&lt;font face=&quot;Menlo-Regular, monospace&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="474.5" y="570" width="106" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="znUm3iQa9jHhePQVOA-r-31" value="afterCompletion()&lt;font face=&quot;Menlo-Regular, monospace&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="474.5" y="635" width="106" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="znUm3iQa9jHhePQVOA-r-33" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;HandlerAdapter&lt;br&gt;&lt;br&gt;&lt;br&gt;handle()&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;font face=&quot;Menlo-Regular, monospace&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="492.5" width="130" height="175" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
