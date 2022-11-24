@@ -1,1 +1,140 @@
-<mxfile host="app.diagrams.net" modified="2022-11-24T05:53:50.622Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" version="20.5.3" etag="yQBtEqE4CpNOF_eSMr7S" type="github"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">7VhZc9MwEP41Hp5gfBQnecRp0wKhU2ihw6NiK7aI7DWynINfzyqWYzsOOYD0yDQv0a43K2m/b4/YcPrx/FKQNPoEAeWGbQZzwzk3bNuybQe/lGZRaLq9bqEIBQu0UaW4Zb+oVppam7OAZg1DCcAlS5tKH5KE+rKhI0LArGk2Bt7cNSUhbSlufcLb2nsWyEjfwu5U+ivKwqjc2XJ7xZOYlMb6JllEApjVVM6F4fQFgCxW8bxPuQpeGZf794t7Ppy4lx8+Zz/JV+/j3fW314WzwSE/WV1B0ET+X9d24XpKeK7jpe8qF2UABeRJQJUT03C8SMYclxYuf1ApFxpwkktAFQgZQQgJ4UOAVNuNIZHazFIyTYJ3CliURxz8SaEaMM71Hihp+y5KmRQwWWGnHKyAUMacjCj3iD8JlwftAweBjxJIqHIVIBn0XarDXVRab8/YagwyyIVPt9jpbJFEhHSbP7ewU+er8VQjd0khplIs0EBQTiSbNslMdE6EK7sKd1xo6A+ggdOiwZDEqcp6oFnySuJqBmKyhRsKl1nEJL1NyTJAMywnTb7UeYBX9UJOskyjuAPkw0CaUiHpfGtYy6euzu2yuGlxVlUKq0z/qFYlzswjAXHWAuI7Fs+XlPyXlHT3TMmyY+3MSU2Wkhh7p6j2dAMskTUTGI8zPNg6dVYb/j2b3rbYdA0tMu3G41nT7ZHI1DmMS9aT55L7hxbhcgyDNxK4CtUq5XkYIlnQXWI4g3btiiAe5dnudtHAWDFoQGLGVbyuKJ9SyXyyoakQzkLc99xHuKnYTB7ckiUhSm4l3S3JivX3iM2m02w2K7nebcwN3aZ7rG7TaWF6g+gV0NkmX+J7Yh3fsddA6D12y+/uU6SfdQl+8I5fVtPdLd/as0xr9phvHPw0CPT0p4DeXjPlyxhwHIbZpzYIlCes8cnL+ag9CYxykSwHAcjlyySwbRKwNzWhB50EykJYA/ULTQlDMM3hKc4B6//8z5zHngPKStGEgKuY2maRYSeGwfos5ljHwwDF6k1tUQqr993OxW8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-24T07:18:00.279Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="QKWi5WRNvTzBFNgmb0KY" version="20.5.3" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1875" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="TsE4t5QuG-D0fmhzeP_u-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.188;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#FF2414;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TsE4t5QuG-D0fmhzeP_u-0" target="TsE4t5QuG-D0fmhzeP_u-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TsE4t5QuG-D0fmhzeP_u-0" value="管会系统表接口" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TsE4t5QuG-D0fmhzeP_u-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.813;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#FF2414;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TsE4t5QuG-D0fmhzeP_u-1" target="TsE4t5QuG-D0fmhzeP_u-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TsE4t5QuG-D0fmhzeP_u-1" value="报表系统表接口" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="400" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TsE4t5QuG-D0fmhzeP_u-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#FF2414;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TsE4t5QuG-D0fmhzeP_u-2" target="TsE4t5QuG-D0fmhzeP_u-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TsE4t5QuG-D0fmhzeP_u-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#FF2414;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TsE4t5QuG-D0fmhzeP_u-2" target="TsE4t5QuG-D0fmhzeP_u-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TsE4t5QuG-D0fmhzeP_u-2" value="底层数据仓库表" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="40" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TsE4t5QuG-D0fmhzeP_u-5" value="指标模型需求" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="400" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TsE4t5QuG-D0fmhzeP_u-12" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="530" y="120" width="20" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="TsE4t5QuG-D0fmhzeP_u-13" value="指标模型需求基调是以数仓提供给管会的的数据为基础（原因是管会数据已经做过数据核验），基于报表系统的SQL代码逻辑，分析报表口径。&lt;br&gt;1. 同一张表，比如【对公贷款借据表】，在管会系统中数据来源范围是什么？报表系统拿到的SQL代码分析出来的数据范围是否和管会一致？不一致的数据，需要额外做数据模型补充。&lt;b&gt;&lt;font color=&quot;#ff2414&quot;&gt;数据探源目前不完全明确&lt;/font&gt;&lt;/b&gt;～&lt;br&gt;2.针对已经提交的版本，没有评审机制，导致问题很多，来来回回，一个是对外表现我们的专业度不够，一个是针对这些问题来回修改调整，各方又卡时间催进度，更容易出错。&lt;br&gt;3.项目组需要对分析技术代码这个事周期性（最好不要超过三天）内部开会总结，常用的问题、错误和共性的东西需要有记录，口头的东西千万不要承诺。" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;align=left;strokeColor=#FF4D29;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="560" y="120" width="380" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="TsE4t5QuG-D0fmhzeP_u-16" value="需要分析数据来源范围和可用字段" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF2414;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="260" y="160" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TsE4t5QuG-D0fmhzeP_u-32" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;fontColor=#FF2414;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TsE4t5QuG-D0fmhzeP_u-17" target="TsE4t5QuG-D0fmhzeP_u-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TsE4t5QuG-D0fmhzeP_u-17" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;原报表系统SQL代码分析&lt;/font&gt;&lt;/b&gt;：按照目前的分析进度，数据溯源以及SQL分析耗费了大量的时间和精力，收效甚微，是不是需要明确一套内部比较好理解的方法论来统一规范，方便进度管理和责任分工明确。&lt;br&gt;目前大家已经做了些什么，效果怎么样，后面是否还要再来一遍？有些技术口径已经分析过，有变更有调整要怎么记录？和业务部门确认的口径，技术上是否可以明确到哪张表哪个字段？（建议设置有效的管理机制来做这个事）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="200" width="320" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="TsE4t5QuG-D0fmhzeP_u-20" value="指标模型需求是我们需要交付的第一个产物，针对交付上的情况，我有以下建议：&lt;br&gt;1.按照开会讨论交付的时间节点，会后需立马跟进问题情况，复杂问题倒排计划，简单问题当场过掉；避免每次临近交付时间大家火急火燎，错误百出。&lt;br&gt;2.交付不能过于依赖晓中老师，需要项目组有评估能力。&lt;br&gt;3.外部沟通成本高，需要谨慎。" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;align=left;strokeColor=#FF4D29;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="560" y="320" width="380" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="TsE4t5QuG-D0fmhzeP_u-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FF2414;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TsE4t5QuG-D0fmhzeP_u-21" target="TsE4t5QuG-D0fmhzeP_u-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TsE4t5QuG-D0fmhzeP_u-40" value="&lt;font color=&quot;#000000&quot;&gt;基于技术口径和模型需求，提炼指标&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontColor=#FF2414;" vertex="1" connectable="0" parent="TsE4t5QuG-D0fmhzeP_u-26">
+          <mxGeometry x="0.234" y="-1" relative="1" as="geometry">
+            <mxPoint x="45" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TsE4t5QuG-D0fmhzeP_u-21" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;strokeColor=#FF4D29;fontColor=#FF2414;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="200" width="20" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="TsE4t5QuG-D0fmhzeP_u-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TsE4t5QuG-D0fmhzeP_u-22" target="TsE4t5QuG-D0fmhzeP_u-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TsE4t5QuG-D0fmhzeP_u-22" value="指标定义" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-280" y="300" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TsE4t5QuG-D0fmhzeP_u-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;fontColor=#FF2414;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TsE4t5QuG-D0fmhzeP_u-29" target="TsE4t5QuG-D0fmhzeP_u-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TsE4t5QuG-D0fmhzeP_u-29" value="圈定可提炼指标范围" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-280" y="200" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TsE4t5QuG-D0fmhzeP_u-31" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;fontColor=#FF2414;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TsE4t5QuG-D0fmhzeP_u-30" target="TsE4t5QuG-D0fmhzeP_u-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TsE4t5QuG-D0fmhzeP_u-30" value="圈定报表范围" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-280" y="40" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TsE4t5QuG-D0fmhzeP_u-38" value="报表范围目前因客户需求不确定而一直在变，需要有引导客户或者明确项目范围，否则落入无休止的境况。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#FF2414;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-280" y="90" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TsE4t5QuG-D0fmhzeP_u-39" value="指标范围和最终交付量" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#FF2414;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-280" y="240" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TsE4t5QuG-D0fmhzeP_u-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fontSize=14;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TsE4t5QuG-D0fmhzeP_u-42" target="TsE4t5QuG-D0fmhzeP_u-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TsE4t5QuG-D0fmhzeP_u-45" value="修改指标定义" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontColor=#000000;" vertex="1" connectable="0" parent="TsE4t5QuG-D0fmhzeP_u-44">
+          <mxGeometry x="-0.0346" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TsE4t5QuG-D0fmhzeP_u-47" value="与业务确认好信息，&lt;br&gt;编写指标需求" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TsE4t5QuG-D0fmhzeP_u-42" target="TsE4t5QuG-D0fmhzeP_u-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TsE4t5QuG-D0fmhzeP_u-42" value="与业务确认业务含义、口径等信息" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;strokeColor=#666666;fontSize=14;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-280" y="400" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TsE4t5QuG-D0fmhzeP_u-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TsE4t5QuG-D0fmhzeP_u-46" target="TsE4t5QuG-D0fmhzeP_u-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TsE4t5QuG-D0fmhzeP_u-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TsE4t5QuG-D0fmhzeP_u-46" target="TsE4t5QuG-D0fmhzeP_u-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TsE4t5QuG-D0fmhzeP_u-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TsE4t5QuG-D0fmhzeP_u-46" target="TsE4t5QuG-D0fmhzeP_u-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TsE4t5QuG-D0fmhzeP_u-46" value="指标需求" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-280" y="560" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TsE4t5QuG-D0fmhzeP_u-48" value="指标需求与报表格子对应关系" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-40" y="480" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TsE4t5QuG-D0fmhzeP_u-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TsE4t5QuG-D0fmhzeP_u-50" target="TsE4t5QuG-D0fmhzeP_u-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TsE4t5QuG-D0fmhzeP_u-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TsE4t5QuG-D0fmhzeP_u-50" target="TsE4t5QuG-D0fmhzeP_u-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TsE4t5QuG-D0fmhzeP_u-50" value="业务版本《指标定义》文件" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-40" y="560" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TsE4t5QuG-D0fmhzeP_u-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=14;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TsE4t5QuG-D0fmhzeP_u-51" target="TsE4t5QuG-D0fmhzeP_u-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TsE4t5QuG-D0fmhzeP_u-51" value="开发版本《指标需求》文件" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-40" y="640" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TsE4t5QuG-D0fmhzeP_u-55" value="梳理指标标准" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="540" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TsE4t5QuG-D0fmhzeP_u-56" value="指标管理流程" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="585" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TsE4t5QuG-D0fmhzeP_u-57" value="指标测试方案" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="640" width="160" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
