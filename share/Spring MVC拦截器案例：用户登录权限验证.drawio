@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-25T01:58:16.756Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="JlkPenBf4IuBfqF4KJEP" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-25T01:59:02.141Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="AbmcN27-h0S8t1Zuzqy8" version="21.1.8" type="github">
   <diagram id="HWQkRQDPZLScs4eT8ZIz" name="第 1 页">
     <mxGraphModel dx="954" dy="503" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -326,6 +326,12 @@
         </mxCell>
         <mxCell id="yj4NW-HGVDamJ-zAx53C-77" value="修改密码&lt;br&gt;登录失败&lt;br&gt;转发到登录页" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=30;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="945" y="750" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="74zm5bh4TFPj5m59A2mm-1" value="缓存被清理&lt;br&gt;转发到登录页" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=30;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1245" y="982" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="74zm5bh4TFPj5m59A2mm-2" value="缓存被清理&lt;br&gt;转发到登录页" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=30;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1730" y="969" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
