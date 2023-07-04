@@ -1,9 +1,117 @@
-<mxfile host="app.diagrams.net" modified="2023-07-04T08:40:38.081Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" version="21.3.7" etag="MK4v_nXfg6mAnL9W_SUW" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-04T09:06:45.241Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="vhySwDnOz-Okf9TlEL9p" version="21.3.7" type="github">
   <diagram name="第 1 页" id="pbgh6q_sP_-A8DNwU9to">
-    <mxGraphModel>
+    <mxGraphModel dx="954" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="QBAxHrYi88ACEBavRzSa-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="QBAxHrYi88ACEBavRzSa-1" target="QBAxHrYi88ACEBavRzSa-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QBAxHrYi88ACEBavRzSa-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QBAxHrYi88ACEBavRzSa-1" target="QBAxHrYi88ACEBavRzSa-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QBAxHrYi88ACEBavRzSa-1" value="2.资产盘点" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QBAxHrYi88ACEBavRzSa-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="QBAxHrYi88ACEBavRzSa-2" target="QBAxHrYi88ACEBavRzSa-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QBAxHrYi88ACEBavRzSa-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QBAxHrYi88ACEBavRzSa-2" target="QBAxHrYi88ACEBavRzSa-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QBAxHrYi88ACEBavRzSa-2" value="1.数据安全标准和规范" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QBAxHrYi88ACEBavRzSa-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="QBAxHrYi88ACEBavRzSa-3" target="QBAxHrYi88ACEBavRzSa-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QBAxHrYi88ACEBavRzSa-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="QBAxHrYi88ACEBavRzSa-3" target="QBAxHrYi88ACEBavRzSa-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QBAxHrYi88ACEBavRzSa-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QBAxHrYi88ACEBavRzSa-3" target="QBAxHrYi88ACEBavRzSa-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QBAxHrYi88ACEBavRzSa-3" value="3.资产定级准备" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QBAxHrYi88ACEBavRzSa-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QBAxHrYi88ACEBavRzSa-4" target="QBAxHrYi88ACEBavRzSa-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QBAxHrYi88ACEBavRzSa-4" value="解读行业标准和制度，明确行业数据安全要求" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="280" y="120" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QBAxHrYi88ACEBavRzSa-6" value="思考：数据安全涉及到什么？影响什么？" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="480" y="120" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QBAxHrYi88ACEBavRzSa-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QBAxHrYi88ACEBavRzSa-9" target="QBAxHrYi88ACEBavRzSa-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QBAxHrYi88ACEBavRzSa-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QBAxHrYi88ACEBavRzSa-9" target="QBAxHrYi88ACEBavRzSa-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QBAxHrYi88ACEBavRzSa-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QBAxHrYi88ACEBavRzSa-9" target="QBAxHrYi88ACEBavRzSa-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QBAxHrYi88ACEBavRzSa-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QBAxHrYi88ACEBavRzSa-9" target="QBAxHrYi88ACEBavRzSa-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QBAxHrYi88ACEBavRzSa-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="QBAxHrYi88ACEBavRzSa-9" target="QBAxHrYi88ACEBavRzSa-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QBAxHrYi88ACEBavRzSa-9" value="盘点数据资产项" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="280" y="200" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QBAxHrYi88ACEBavRzSa-10" value="思考：未盘点的资产，是否有定级的必要" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="480" y="230" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QBAxHrYi88ACEBavRzSa-15" value="思考：做好数据资产，对已经盘点的资产定级" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="480" y="180" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QBAxHrYi88ACEBavRzSa-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QBAxHrYi88ACEBavRzSa-17" target="QBAxHrYi88ACEBavRzSa-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QBAxHrYi88ACEBavRzSa-17" value="各部门明确数据定级的粒度（如库文件、表、字段等）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="260" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QBAxHrYi88ACEBavRzSa-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QBAxHrYi88ACEBavRzSa-19" target="QBAxHrYi88ACEBavRzSa-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QBAxHrYi88ACEBavRzSa-19" value="识别数据安全定级关键要素" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="310" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QBAxHrYi88ACEBavRzSa-23" value="思考：数据分类的必要性；数据定级关键因素" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="480" y="280" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QBAxHrYi88ACEBavRzSa-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="QBAxHrYi88ACEBavRzSa-27" target="QBAxHrYi88ACEBavRzSa-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QBAxHrYi88ACEBavRzSa-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="QBAxHrYi88ACEBavRzSa-27" target="QBAxHrYi88ACEBavRzSa-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QBAxHrYi88ACEBavRzSa-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QBAxHrYi88ACEBavRzSa-27" target="QBAxHrYi88ACEBavRzSa-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QBAxHrYi88ACEBavRzSa-27" value="4.安全级别判定" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QBAxHrYi88ACEBavRzSa-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QBAxHrYi88ACEBavRzSa-32" target="QBAxHrYi88ACEBavRzSa-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QBAxHrYi88ACEBavRzSa-32" value="各部门按照数据定级规则，结合国家及行业有关法律法规、部门规章，对数据安全等级进行初步判定" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="280" y="370" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QBAxHrYi88ACEBavRzSa-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QBAxHrYi88ACEBavRzSa-34" target="QBAxHrYi88ACEBavRzSa-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QBAxHrYi88ACEBavRzSa-34" value="部门负责人对数据安全级别进行复核，调整形成数据安全级别评定结果及定级清单" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="280" y="430" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QBAxHrYi88ACEBavRzSa-36" value="思考：数据定级人为因素比较重；NLP算法只能辅助，主要还是需要人工定级" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="520" y="390" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="QBAxHrYi88ACEBavRzSa-39" value="5.安全级别流程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
