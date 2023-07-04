@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-04T09:08:56.395Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="2276grQ4EbvyJ3SxYIbI" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-04T09:13:05.482Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="-4VYgtGKR-1dkkYqERtU" version="21.3.7" type="github">
   <diagram name="第 1 页" id="pbgh6q_sP_-A8DNwU9to">
     <mxGraphModel dx="954" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -132,6 +132,18 @@
         </mxCell>
         <mxCell id="QBAxHrYi88ACEBavRzSa-45" value="思考：步骤5会重复3和4的步骤" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="480" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QBAxHrYi88ACEBavRzSa-48" value="NLP算法需要先准备样本（样本需要贴合业务）" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="660" y="345" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QBAxHrYi88ACEBavRzSa-49" value="模型训练，结果调优" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="660" y="400" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QBAxHrYi88ACEBavRzSa-50" value="模型不要过拟合，人工审核及调整规则" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="660" y="460" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QBAxHrYi88ACEBavRzSa-51" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="640" y="360.5" width="20" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
